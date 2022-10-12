@@ -24,6 +24,7 @@ function Carlos() {
         nombre:'carlos',
         edad:25,
         nacionalidad:'argentina',
+        hora:'asdklajslkd'
     };
 }
 
