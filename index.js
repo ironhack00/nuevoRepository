@@ -19,6 +19,7 @@ function laCajaDePabdora(binary) {
 
 
   function guille(){
+    
     return{
         nombre: "guille",
         edad: 32,
