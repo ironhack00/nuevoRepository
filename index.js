@@ -16,3 +16,12 @@ function laCajaDePabdora(binary) {
   
   //console.log(laCajaDePabdora("10")); //(2)
   console.log(laCajaDePabdora("111")); //(7)
+
+
+  function guille(){
+    return{
+        nombre: "guille",
+        edad: 32,
+        nacionalidad: "argentina"    
+    }
+  }
